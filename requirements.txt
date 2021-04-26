@@ -1,2 +1,4 @@
 tweepy
 pandas
+strsimpy
+sklearn
